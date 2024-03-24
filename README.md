@@ -23,6 +23,10 @@ Before you begin, ensure you have:
 
 To use this solution, you'll need an API key from Google AI Studio, specifically for Gemini services. Make sure to generate this key before importing the solution into Power Platform.
 
+Note : The key would be asked while importing the solution
+![Gemini Conn](https://github.com/PriyaranjanKS/PowerPlatform_AITravelAdvisor/assets/29351010/1eeb469e-d97b-4250-8441-fddc74af7ba8)
+
+
 ## 📥 How to Import the Solution
 
 1. **Download the Solution Package**: Clone this repository or download the solution package provided in the releases section.
