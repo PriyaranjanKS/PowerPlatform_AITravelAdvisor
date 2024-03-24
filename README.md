@@ -52,8 +52,8 @@ Note : The key would be asked while importing the solution
 
 ## 🌟 Highlighted Features
 
-- **Image Location Locator**: This Power Automate flow processes the image upload and utilizes Google Gemini to identify the location.
-- **Itenary Generator**: After location identification, this module generates a detailed travel itinerary using Google Gemini.
+- **Image Location Finder**: This Power Automate flow processes the image upload and utilizes Google Gemini to identify the location.
+- **Location Itenary Generator**: After location identification, this module generates a detailed travel itinerary using Google Gemini.
 
 ## 📘 Documentation
 
