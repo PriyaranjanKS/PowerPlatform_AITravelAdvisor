@@ -57,7 +57,7 @@ Note : The key would be asked while importing the solution
 
 ## 📘 Documentation
 
-For more detailed instructions on setting up and using Google Gemini within your applications, refer to the [Google AI Studio documentation](https://aistudio.google.com/gemini).
+For more detailed instructions on setting up and using Google Gemini within your applications, refer to the [Google AI Studio documentation](https://ai.google.dev/docs).
 
 ## 🤝 Contributing
 
